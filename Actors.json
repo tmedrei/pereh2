@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"People1","classId":1,"equips":[0,0,0],"faceIndex":3,"faceName":"FaceSam3","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":2,"value":1},{"code":51,"dataId":3,"value":1},{"code":51,"dataId":4,"value":1},{"code":51,"dataId":5,"value":1},{"code":51,"dataId":6,"value":1},{"code":51,"dataId":7,"value":1},{"code":41,"dataId":2,"value":1},{"code":51,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Перехожий","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"People1","classId":2,"equips":[2,0,0,0,0],"faceIndex":2,"faceName":"FaceSam3","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":2,"value":1},{"code":51,"dataId":3,"value":1},{"code":51,"dataId":5,"value":1},{"code":51,"dataId":6,"value":1},{"code":51,"dataId":7,"value":1},{"code":51,"dataId":8,"value":1},{"code":41,"dataId":4,"value":1},{"code":62,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Иван Ерохин","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"People1","classId":1,"equips":[0,0,0],"faceIndex":7,"faceName":"facesamosbor","traits":[],"initialLevel":1,"maxLevel":99,"name":"ЕОТова","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"People2","classId":1,"equips":[0,0,0],"faceIndex":1,"faceName":"FaceSam3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Вольный Мусорщик","nickname":"","note":"","profile":""}
+]
